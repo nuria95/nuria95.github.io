@@ -24,7 +24,7 @@ I am a PhD candidate at ETH Zurich in the [Computational Robotics Lab](https://c
 Before that, I achieved my MSc in Robotics, Systems and Control from ETH and I did my Master thesis at LAS group supervised by Prof. Andreas Krause.
 
 My main focus is sequential decision making for robotics. I aim to develop algorithms that leverage diverse prior data to provide agents with the ability to efficiently explore new environments and autonomously learn about the complexities of the real world.
-Apart from that, in my free time (if any) I love playing sports, reading and playing music.
+Apart from that, in my free time I love playing sports, reading and playing music.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
