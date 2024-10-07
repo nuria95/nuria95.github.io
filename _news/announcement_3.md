@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: 🚣🏻‍♀️ [Causal Action Influence Aware Counterfactual Data Augmentation](https://sites.google.com/view/caiac) got accepted to **ICML 2024**!
+🚣🏻‍♀️ **CAIAC** ([Causal Action Influence Aware Counterfactual Data Augmentation](https://sites.google.com/view/caiac)) accepted in **ICML 2024**!
