@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 <br> <!-- Vertical space to align with picture-->
 
 Hi! I am Núria.
-I am a PhD candidate at ETH Zurich in the [Computational Robotics Lab](https://crl.ethz.ch) at ETH Zurich and a CLS fellow. I am co-supervised by Prof. Stelian Coros at ETH and Prof. Georg Martius from the [Autonomous Learning group](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/distributed-intelligence/home/) at Univeristy of Tübingen.
+I am a PhD candidate at ETH Zurich in the [Computational Robotics Lab](https://crl.ethz.ch) at ETH Zurich and a [CLS](https://learning-systems.org) fellow. I am co-supervised by Prof. Stelian Coros at ETH and Prof. Georg Martius from the [Autonomous Learning group](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/distributed-intelligence/home/) at Univeristy of Tübingen.
 Before that, I achieved my MSc in Robotics, Systems and Control from ETH and I did my Master thesis at LAS group supervised by Prof. Andreas Krause.
 
 My main focus is sequential decision making for robotics. I aim to develop algorithms that leverage diverse prior data to provide agents with the ability to efficiently explore new environments and autonomously learn about the complexities of the real world.
