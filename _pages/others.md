@@ -19,6 +19,7 @@ Still need to add some more!
 
 {% for category in page.display_categories %}
 <a id="{{ category }}" href=".#{{ category }}">
+
 <h2 class="category">{{ category }}</h2>
 </a>
 {% assign categorized_projects = site.projects | where: "category", category %}
