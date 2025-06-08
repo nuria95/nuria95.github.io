@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sola Duo 2025
-description: 
+description:
 img: assets/img/races/soladuo2025_2.jpeg
 importance: 2
 category: fun
