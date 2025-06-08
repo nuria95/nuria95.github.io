@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-👩🏽‍💻 Started my internship at Amazon AWS in Berlin.
+👩🏽‍💻 Started an internship at Amazon AWS in Berlin.
